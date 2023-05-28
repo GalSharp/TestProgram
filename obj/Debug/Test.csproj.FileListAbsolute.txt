@@ -1,0 +1,13 @@
+C:\csharpProj\Test\bin\Debug\Test.exe.config
+C:\csharpProj\Test\bin\Debug\Test.exe
+C:\csharpProj\Test\bin\Debug\Test.pdb
+C:\csharpProj\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\csharpProj\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\csharpProj\Test\obj\Debug\Test.Form1.resources
+C:\csharpProj\Test\obj\Debug\Test.Properties.Resources.resources
+C:\csharpProj\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\csharpProj\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\csharpProj\Test\obj\Debug\Test.exe
+C:\csharpProj\Test\obj\Debug\Test.pdb
+C:\csharpProj\Test\obj\Debug\Test.TestForm.resources
+C:\csharpProj\Test\obj\Debug\Test.LeaderboardForm.resources
